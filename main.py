@@ -1,3 +1,4 @@
+#script by rikardoroa
 from clientstreaming import client_streaming
 from serverstreaming import server_streaming
 import threading
