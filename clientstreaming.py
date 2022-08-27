@@ -1,3 +1,4 @@
+#script by rikardoroa
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import *
 import socket
